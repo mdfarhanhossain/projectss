@@ -1,0 +1,80 @@
+body{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    background-image: url("picture/web 2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.orange-highlight{
+    color:orange;
+}
+.div-first{
+    width: 40%;
+    margin-left: 40px;
+    float: left;
+
+}
+img {
+    margin-left: 20%;
+    padding: 15%;
+    margin-top: 15px;
+    
+    
+}
+
+                
+section{
+
+    height: 500px;    
+}
+
+    
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, orange,orangered);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 7px;
+    font-style: bold;
+    margin-left: 41px;
+}
+.big{
+    margin-top: 100px;
+    margin-left: 200px;
+    
+}
+h1{
+    margin-left: 128px;
+    
+    
+}
+.box{
+    box-shadow: 10px 10px 30px black;
+    padding: 20px 20px;
+    border-radius: 10px;
+    margin-right: 40px;
+}
+.experience{
+    background-image: url("picture/ed.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 120px 120px;
+    
+}
+#border1{
+    border-left: 8px solid ;
+    border-image:linear-gradient(indigo ,tomato);
+    border-image-slice: 1;
+}
+#border2{
+    border-left: 8px solid ;
+    border-image:linear-gradient(blue,green);
+    border-image-slice: 1;
+}
